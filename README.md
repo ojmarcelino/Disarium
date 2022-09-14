@@ -5,6 +5,7 @@
 * Verificar número
 * Apresentar resultado
 
+```Python
   print(
     "\nThis function checks if num is a Disarium number, a n-digit number equal"
     "\nto its digits sum, raised each to a power matching its positional place."
@@ -12,3 +13,4 @@
     "\nTo proceed, please inform a number to check for this condition:"
     "\n"
   );
+```
